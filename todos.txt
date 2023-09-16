@@ -1,0 +1,3 @@
+helloclean the compclean the comp
+help 
+clean
